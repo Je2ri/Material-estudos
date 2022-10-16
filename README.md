@@ -1,5 +1,5 @@
 # Desafio Fullstack- DIO
 
-Primeiro desáfio de código
+Primeiro desáfio de projeto
 
-Criado repositório para estudos.
+Criado repositório para anotações e estudos.
